@@ -1,0 +1,54 @@
+.banner{
+    background: url("https://3.bp.blogspot.com/-FnhH3y06NWs/UrqDk7jvrTI/AAAAAAAAIxk/qfby-vQx1Gs/s1600/Unik16.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: beige;
+}
+
+.lingkaran{
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: azure;
+    background-color: rgb(9, 18, 199);
+}
+
+.lingkaran i{
+    position: relative;
+    top: 30px;
+}
+
+.crop-img{
+    object-fit: cover;
+}
+
+.tim img{
+    width: 250px;
+    border: 10px solid #3d3d70;
+}
+
+a.social{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: rgb(241, 241, 248);
+    border-radius: 50%;
+    background-color: rgb(33, 7, 180);
+    line-height: 40px;
+}
+
+.client img{
+    height: auto;
+    max-height: 50px;
+}
+
+.kontak{
+    background: url(https://p4.wallpaperbetter.com/wallpaper/162/68/979/geometric-shapes-dark-background-black-wallpaper-preview.jpg)no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: rgb(27, 206, 129);
+}
